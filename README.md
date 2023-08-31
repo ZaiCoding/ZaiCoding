@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZaiCoding
-- 👀 I’m interested in processing NG sequencing data
+- 👀 I’m interested in learning how to analyze NG sequencing data
 - 🌱 I’m currently learning Bash and Python 
 
 
